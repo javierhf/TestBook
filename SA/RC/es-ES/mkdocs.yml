@@ -1,0 +1,16 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Sales Assistant\RC\es-ES
+pages: 
+- 'Novedades': 'index.md'
+- 'Qué es Sales Assistant': 'Que es Sales Assistant.md'
+- 'Qué es el proceso de venta': 'Que es el proceso de venta.md'
+- 'Qué es el Follow up': 'Que es el Follow up.md'
+- 'Cuáles son los roles del proceso de venta': 'Cuales son los roles del proceso de venta.md'
+- 'Crear una oferta': 'Crear una oferta.md'
+- 'Añadir comentario a la oferta': 'Anadir comentario a la oferta.md'
+- 'Entregar la oferta': 'Entregar la oferta.md'
+- 'Reservar vehículo para prueba dinámica': 'Reservar vehiculo para prueba dinamica.md'
+- 'Histórico de versiones': 'Historico de versiones.md'
+
